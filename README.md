@@ -1,0 +1,2 @@
+# Java programs
+Here are my most recent academic java projects. Note: I lost a lot of course material from a couple of years ago that showed my progress from when I first started coding using Java. Notwithstanding, the programs were rather rudimentary - they were mainly demos for delving into all things relating to the core knowledge of object oriented programming. I wish I didn't lose the files, however, I've learned my lesson and will use GitHub for saving all my personal projects from now on. Welp, time to keep on coding!
